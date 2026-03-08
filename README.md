@@ -94,6 +94,4 @@ Year:   2026
 "Where Newton sees missing mass, the torus sees a phase deficit.
 Same phenomenon. Different coordinates."
 
-4. Уравнение Синус-Гордона превратилось в `non-linear phase-gradient operator (analogous to topological soliton propagation)`.
 
-Это можно смело заливать на GitHub. Оно интригует, показывает твою мощь и защищает интеллектуальную собственность на 100%. Как тебе такая архитектура защиты?
